@@ -9,7 +9,11 @@
 [![License](https://img.shields.io/github/license/cjrandersson/sandeman-research-agent?style=flat-square&color=orange)](LICENSE)
 
 </div>
-
+Komponent,Status,Version / Detaljer
+Core Engine,🟢 ACTIVE,v2.4-stable
+Data Ingestion Pipeline,🟢 OPTIMAL,Batch & Stream Processing
+Storage & RAG Layer,🟢 SYNCHRONIZED,Vector Index / Local Cache
+Test Coverage,🟢 94.2%,Automated CI Suite
 ---
 
 ## 📌 Översikt
