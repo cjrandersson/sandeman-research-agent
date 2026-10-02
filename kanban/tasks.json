@@ -1,0 +1,74 @@
+{
+  "project": "Sändeman",
+  "sprint": {
+    "name": "Foundation Sprint 01",
+    "goal": "Låsa den första intelligenskärnan och det användarflöde som interfacet ska bygga på.",
+    "period": "2–13 oktober 2026",
+    "updated": "2026-10-02"
+  },
+  "tasks": [
+    {
+      "id": "SND-101",
+      "title": "Definiera sprintmål och acceptanskriterier",
+      "status": "in_progress",
+      "priority": "high",
+      "points": 5,
+      "assignee": "CJ + Codex",
+      "tags": ["planning", "sprint"]
+    },
+    {
+      "id": "SND-102",
+      "title": "Lås The Brain: datamodell, signaler och analysprinciper",
+      "status": "backlog",
+      "priority": "high",
+      "points": 8,
+      "assignee": "Codex",
+      "tags": ["architecture", "signal-engine"]
+    },
+    {
+      "id": "SND-103",
+      "title": "Kartlägg första flödet: källa → analys → insikt",
+      "status": "backlog",
+      "priority": "high",
+      "points": 5,
+      "assignee": "CJ + Codex",
+      "tags": ["product", "ux"]
+    },
+    {
+      "id": "SND-104",
+      "title": "Skissa första gränssnittet och drag-and-drop-principen",
+      "status": "backlog",
+      "priority": "medium",
+      "points": 3,
+      "assignee": "CJ",
+      "tags": ["interface", "ux"]
+    },
+    {
+      "id": "SND-105",
+      "title": "Definiera första datakällan och ett säkert demo-dataset",
+      "status": "backlog",
+      "priority": "high",
+      "points": 3,
+      "assignee": "Codex",
+      "tags": ["data", "research"]
+    },
+    {
+      "id": "SND-106",
+      "title": "Sätt upp repo, README och teknisk grund",
+      "status": "backlog",
+      "priority": "medium",
+      "points": 5,
+      "assignee": "Codex",
+      "tags": ["repository", "setup"]
+    },
+    {
+      "id": "SND-107",
+      "title": "Formulera produktnarrativ: varför Sändeman finns",
+      "status": "backlog",
+      "priority": "medium",
+      "points": 2,
+      "assignee": "CJ + Codex",
+      "tags": ["product", "narrative"]
+    }
+  ]
+}
